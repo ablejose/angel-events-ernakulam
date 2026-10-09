@@ -1,0 +1,59 @@
+{
+  "slug": "angel-events-ernakulam",
+  "name": "Angel Events",
+  "shortName": "Angel",
+  "descriptor": "Event Management",
+  "address": "Mattoor, Ernakulam, Kalady, Keralam 683574",
+  "area": "Mattoor",
+  "city": "Ernakulam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683574",
+  "geo": {
+    "lat": 10.171325,
+    "lng": 76.428825
+  },
+  "mapsLink": "https://maps.google.com/?cid=4996422108607998856",
+  "phone": "+91 94466 65451",
+  "whatsapp": "919446665451",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 70,
+  "reviews": [
+    {
+      "name": "KHAYAS MARIKAR",
+      "rating": 5,
+      "quote": "We had a wonderful experience with Angel Events for our marriage function @thrikkara ...Everything was organized beautifully and managed so professionally from start to finish. A special mention to dear Eldhose— he was extremely helpful, friendly, and made sure every detail was taken care of perfectly."
+    },
+    {
+      "name": "Arun Joby",
+      "rating": 5,
+      "quote": "Huge thanks to Angel Events for making our wedding so amazing! From start to finish, they were super helpful, friendly, and totally on top of everything. They really listened to what we wanted and made it all come together perfectly. The decor, lighting, flowers—everything looked beautiful."
+    },
+    {
+      "name": "JOSEPH SAJU",
+      "rating": 5,
+      "quote": "From planning to final delivery, the team handled every detail with precision and creativity. The coordination was seamless, and they truly understood our vision, turning it into a memorable experience. Their dedication, punctuality, and innovative ideas made the event stand out."
+    },
+    {
+      "name": "Rose Mary Thomas",
+      "rating": 5,
+      "quote": "Highly Recommended! I had approached Angel Events for my Wedding Decor. They were very friendly and were ready to customise the decor theme as per my interest and budget.Decor and the arrangements turned out really good. Received many compliments from the guests who had attended the function."
+    },
+    {
+      "name": "Avinash Ramesh",
+      "rating": 5,
+      "quote": "I recently hired Angel Events for my reception, and they exceeded all my expectations! From the stunning stage decoration to organizing two fantastic hosts and even arranging the cake, they handled everything beautifully."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://angel-events-ernakulam.vercel.app"
+}
